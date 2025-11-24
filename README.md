@@ -33,8 +33,6 @@ The project highlights correct bus routing, splitter usage, control logic, and s
 ### ✔ Requirements
 - Java Runtime Environment (JRE)
 - Logisim  
-- or **Logisim Evolution (recommended)** — version **3.7+**
-
 ---
 
 ### ✔ Steps to Run
